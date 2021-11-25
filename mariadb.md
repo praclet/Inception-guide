@@ -21,7 +21,6 @@ Disallow root login remotely? [Y/n] y<br>
 Remove test database and access to it? [Y/n] y<br>
 Reload privilege tables now? [Y/n] y<br>
 </article>
-<p style="color:red">EOF</p>
 
 <h4>#Création d’une base de donnée d’un user et allocation des droits à la base de donnée au nouvel utilisateur</h4>
 
